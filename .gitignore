@@ -1,0 +1,13 @@
+.env
+.streamlit/secrets.toml
+.shopify_token_cache.json
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.log
+reports/*.xlsx
+logs/
+.pytest_cache/
+.mypy_cache/
+.DS_Store
